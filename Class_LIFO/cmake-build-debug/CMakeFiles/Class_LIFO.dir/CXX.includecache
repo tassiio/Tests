@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/1/Mephi/C++/projects/taski/OOP/Class_LIFO/Class_LIFO.cpp
+Class_LIFO.h
+C:/1/Mephi/C++/projects/taski/OOP/Class_LIFO/Class_LIFO.h
+
+C:/1/Mephi/C++/projects/taski/OOP/Class_LIFO/Class_LIFO.h
+iostream
+-
+cassert
+-
+
+C:/1/Mephi/C++/projects/taski/OOP/Class_LIFO/main.cpp
+iostream
+-
+Class_LIFO.h
+C:/1/Mephi/C++/projects/taski/OOP/Class_LIFO/Class_LIFO.h
+
