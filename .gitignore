@@ -1,0 +1,4 @@
+*.txt
+!coordinates.txt
+**/.idea
+**/cmake-build-debug
