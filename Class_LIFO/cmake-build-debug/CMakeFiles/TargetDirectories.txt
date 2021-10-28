@@ -1,3 +1,0 @@
-C:/1/Mephi/C++/projects/taski/OOP/Class_LIFO/cmake-build-debug/CMakeFiles/Class_LIFO.dir
-C:/1/Mephi/C++/projects/taski/OOP/Class_LIFO/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/1/Mephi/C++/projects/taski/OOP/Class_LIFO/cmake-build-debug/CMakeFiles/rebuild_cache.dir

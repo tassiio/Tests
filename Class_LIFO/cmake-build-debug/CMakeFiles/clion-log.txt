@@ -1,4 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" C:\1\Mephi\C++\projects\taski\OOP\Class_LIFO
--- Configuring done
--- Generating done
--- Build files have been written to: C:/1/Mephi/C++/projects/taski/OOP/Class_LIFO/cmake-build-debug
