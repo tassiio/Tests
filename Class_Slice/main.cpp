@@ -75,7 +75,7 @@ int main() {
     }
     cout << endl;
 
-    String.S_Parse(":3");
+    String.S_Parse("-5");
 
     delete []My_Array;
 
